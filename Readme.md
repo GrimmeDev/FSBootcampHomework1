@@ -8,7 +8,7 @@ My task with this Bootcamp assignment is to clean up the index.html file inside 
 ___
 `AS a marketing agency`<br>
 `I WANT a codebase that follows accessibility standards`<br>
-`SO THAT our own site is optimized for search engines<br>`
+`SO THAT our own site is optimized for search engines`
 
 ### My Goals
 ___
