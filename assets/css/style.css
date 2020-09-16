@@ -27,7 +27,8 @@ header h1 {
     color: #d9dcd6;
 }
 
-header div {
+/* Changed all header div to just nav */
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -35,11 +36,11 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+nav ul {
     list-style-type: none;
 }
 
-header div ul li {
+nav li {
     display: inline-block;
     margin-left: 25px;
 }
