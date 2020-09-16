@@ -22,4 +22,4 @@ To meet the Accessiblity Standards the following criteria needs to be met:
 </ul>
 
 #### Link to working webpage
-<a href="https://wraith0070.github.io/FSBootcampHomework1/">Horiseon Solutions</a>
+<a href="https://grimmedev.github.io/FSBootcampHomework1/">Horiseon Solutions</a>
