@@ -25,4 +25,4 @@ To meet the Accessiblity Standards the following criteria needs to be met:
 <a href="https://grimmedev.github.io/FSBootcampHomework1/">Horiseon Solutions</a>
 
 #### Example screen shot
-![Example of functional webpage](/Develop\assets\images\example.png?raw=true "Example Image")
+![example](/Develop\assets\images\example.png?"Example Image")
